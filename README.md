@@ -4,4 +4,5 @@
 - Our goal is to predict the dependent variable’s value based on the value of the independent variable. 
 - A simple linear regression aims to find the best relationship between X (independent variable) and Y (dependent variable).
 
+
 ![MasterHead](https://static.javatpoint.com/tutorial/machine-learning/images/simple-linear-regression-in-machine-learning5.png)
